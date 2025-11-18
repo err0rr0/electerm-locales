@@ -136,7 +136,7 @@ const lang = {
     os: '操作系统',
     userTips: '使用小技巧',
     commandLineUsage: '命令行用法',
-    newBookmark: '新书签',
+    newBookmark: '新建会话书签',
     newWindow: '新窗口'
   },
 
@@ -160,7 +160,7 @@ const lang = {
     close: '关闭',
     closeOtherTabs: '关闭其他连接',
     closeTabRight: '关闭右侧连接',
-    newTab: '新建连接',
+    newTab: '新建终端',
     duplicate: '复制',
     rename: '重命名',
     openNewTerm: '打开新连接',
