@@ -14,19 +14,19 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electerm/electerm-locales.git"
+    "url": "git+https://github.com/err0rr0/electerm-locales.git"
   },
   "keywords": [
     "electerm",
     "locale",
     "language"
   ],
-  "author": "ZHAO Xudong <zxdong@gmail.com>",
+  "author": "err0rr0 <err0rr0@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electerm/electerm-locales/issues"
+    "url": "https://github.com/err0rr0/electerm-locales/issues"
   },
-  "homepage": "https://github.com/electerm/electerm-locales#readme",
+  "homepage": "https://github.com/err0rr0/electerm-locales#readme",
   "devDependencies": {
     "country-flag-emoji": "^1.0.3",
     "dotenv": "^16.0.3",
