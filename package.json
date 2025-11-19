@@ -11,7 +11,7 @@
     "build": "node bin/build.js",
     "pub": "npm run build && node bin/publish.js"
   },
-  "type": "module",
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/err0rr0/electerm-locales.git"
